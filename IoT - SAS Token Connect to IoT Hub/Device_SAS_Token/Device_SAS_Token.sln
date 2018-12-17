@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Device_SAS_Token", "Device_SAS_Token\Device_SAS_Token.csproj", "{735CE438-6A53-4B56-8D4F-B28C724A9EDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Token_Service", "..\Token_Service\Token_Service.csproj", "{46BDAEE8-53D9-4AB2-AC75-E63D3A013B79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{735CE438-6A53-4B56-8D4F-B28C724A9EDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{735CE438-6A53-4B56-8D4F-B28C724A9EDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{735CE438-6A53-4B56-8D4F-B28C724A9EDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{735CE438-6A53-4B56-8D4F-B28C724A9EDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46BDAEE8-53D9-4AB2-AC75-E63D3A013B79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46BDAEE8-53D9-4AB2-AC75-E63D3A013B79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46BDAEE8-53D9-4AB2-AC75-E63D3A013B79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46BDAEE8-53D9-4AB2-AC75-E63D3A013B79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5F2ACCE-478F-43CA-BAFD-E544CE15BD6F}
+	EndGlobalSection
+EndGlobal

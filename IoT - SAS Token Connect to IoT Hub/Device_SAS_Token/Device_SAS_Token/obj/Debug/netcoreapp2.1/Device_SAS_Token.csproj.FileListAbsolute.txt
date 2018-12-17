@@ -1,0 +1,14 @@
+C:\Users\bwa\Desktop\IoT - SAS Token Connect to IoT Hub\Device_SAS_Token\Device_SAS_Token\bin\Debug\netcoreapp2.1\Device_SAS_Token.deps.json
+C:\Users\bwa\Desktop\IoT - SAS Token Connect to IoT Hub\Device_SAS_Token\Device_SAS_Token\bin\Debug\netcoreapp2.1\Device_SAS_Token.runtimeconfig.json
+C:\Users\bwa\Desktop\IoT - SAS Token Connect to IoT Hub\Device_SAS_Token\Device_SAS_Token\bin\Debug\netcoreapp2.1\Device_SAS_Token.runtimeconfig.dev.json
+C:\Users\bwa\Desktop\IoT - SAS Token Connect to IoT Hub\Device_SAS_Token\Device_SAS_Token\bin\Debug\netcoreapp2.1\Device_SAS_Token.dll
+C:\Users\bwa\Desktop\IoT - SAS Token Connect to IoT Hub\Device_SAS_Token\Device_SAS_Token\bin\Debug\netcoreapp2.1\Device_SAS_Token.pdb
+C:\Users\bwa\Desktop\IoT - SAS Token Connect to IoT Hub\Device_SAS_Token\Device_SAS_Token\obj\Debug\netcoreapp2.1\Device_SAS_Token.csprojAssemblyReference.cache
+C:\Users\bwa\Desktop\IoT - SAS Token Connect to IoT Hub\Device_SAS_Token\Device_SAS_Token\obj\Debug\netcoreapp2.1\Device_SAS_Token.csproj.CoreCompileInputs.cache
+C:\Users\bwa\Desktop\IoT - SAS Token Connect to IoT Hub\Device_SAS_Token\Device_SAS_Token\obj\Debug\netcoreapp2.1\Device_SAS_Token.AssemblyInfoInputs.cache
+C:\Users\bwa\Desktop\IoT - SAS Token Connect to IoT Hub\Device_SAS_Token\Device_SAS_Token\obj\Debug\netcoreapp2.1\Device_SAS_Token.AssemblyInfo.cs
+C:\Users\bwa\Desktop\IoT - SAS Token Connect to IoT Hub\Device_SAS_Token\Device_SAS_Token\obj\Debug\netcoreapp2.1\Device_SAS_Token.dll
+C:\Users\bwa\Desktop\IoT - SAS Token Connect to IoT Hub\Device_SAS_Token\Device_SAS_Token\obj\Debug\netcoreapp2.1\Device_SAS_Token.pdb
+C:\Users\bwa\Desktop\IoT - SAS Token Connect to IoT Hub\Device_SAS_Token\Device_SAS_Token\bin\Debug\netcoreapp2.1\Token_Service.dll
+C:\Users\bwa\Desktop\IoT - SAS Token Connect to IoT Hub\Device_SAS_Token\Device_SAS_Token\bin\Debug\netcoreapp2.1\Token_Service.pdb
+C:\Users\bwa\Desktop\IoT - SAS Token Connect to IoT Hub\Device_SAS_Token\Device_SAS_Token\obj\Debug\netcoreapp2.1\Device_SAS_Token.csproj.CopyComplete

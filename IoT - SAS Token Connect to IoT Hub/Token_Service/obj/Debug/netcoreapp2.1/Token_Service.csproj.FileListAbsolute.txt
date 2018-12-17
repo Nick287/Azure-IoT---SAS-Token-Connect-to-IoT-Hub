@@ -1,0 +1,9 @@
+C:\Users\bwa\Desktop\IoT - SAS Token Connect to IoT Hub\Token_Service\bin\Debug\netcoreapp2.1\Token_Service.deps.json
+C:\Users\bwa\Desktop\IoT - SAS Token Connect to IoT Hub\Token_Service\bin\Debug\netcoreapp2.1\Token_Service.dll
+C:\Users\bwa\Desktop\IoT - SAS Token Connect to IoT Hub\Token_Service\bin\Debug\netcoreapp2.1\Token_Service.pdb
+C:\Users\bwa\Desktop\IoT - SAS Token Connect to IoT Hub\Token_Service\obj\Debug\netcoreapp2.1\Token_Service.csproj.CoreCompileInputs.cache
+C:\Users\bwa\Desktop\IoT - SAS Token Connect to IoT Hub\Token_Service\obj\Debug\netcoreapp2.1\Token_Service.AssemblyInfoInputs.cache
+C:\Users\bwa\Desktop\IoT - SAS Token Connect to IoT Hub\Token_Service\obj\Debug\netcoreapp2.1\Token_Service.AssemblyInfo.cs
+C:\Users\bwa\Desktop\IoT - SAS Token Connect to IoT Hub\Token_Service\obj\Debug\netcoreapp2.1\Token_Service.dll
+C:\Users\bwa\Desktop\IoT - SAS Token Connect to IoT Hub\Token_Service\obj\Debug\netcoreapp2.1\Token_Service.pdb
+C:\Users\bwa\Desktop\IoT - SAS Token Connect to IoT Hub\Token_Service\obj\Debug\netcoreapp2.1\Token_Service.csprojAssemblyReference.cache
